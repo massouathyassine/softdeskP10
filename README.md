@@ -1,19 +1,6 @@
 # SoftDesk v1
 **_Projet réalisé lors de ma formation de Développeur d'application Python à OpenClassrooms_**
 
-![softdesk](softdesk_postman.png)
-
-_**SoftDesk is a Back-end efficient and secure RESTful API to manage:**_
-* Projetcts
-* Issues (incidents)
-* Users / Contributors
-* Comments
-
-_**The API SoftDesk uses:**_
-* Django
-* Django Rest
-* Postman
-
 _**L'API SoftDesk dispose de deux applications codées en Python avec Django Rest framwork:**_
 1. userAccount
 1. helpdesk
