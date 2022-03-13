@@ -1,4 +1,4 @@
-# SoftDesk v1
+# SoftDesk
 **_Projet réalisé lors de ma formation de Développeur d'application Python à OpenClassrooms_**
 
 _**L'API SoftDesk dispose de deux applications codées en Python avec Django Rest framwork:**_
