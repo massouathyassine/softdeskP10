@@ -30,4 +30,6 @@ _**Les données sont enregistrées dans la base de données db.sqlite3**_
 
 * Pour créer un nouveau compte administrateur `python manage.py createsuperuser`
 
+Postman documentation : https://documenter.getpostman.com/view/19526082/UVsJvmDu
+
 
